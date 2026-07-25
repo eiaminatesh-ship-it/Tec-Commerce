@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Gaming Laptop",
+        "price": 1299,
+        "rating": 4.9,
+        "category": "Laptop",
+        "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?w=700",
+        "description": "Powerful gaming laptop with Intel Core i9 processor, RTX graphics, 32GB RAM and 1TB SSD."
+    },
+    {
+        "id": 2,
+        "name": "Mechanical Keyboard",
+        "price": 99,
+        "rating": 4.8,
+        "category": "Keyboard",
+        "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=700",
+        "description": "RGB mechanical keyboard with blue switches and aluminum body."
+    },
+    {
+        "id": 3,
+        "name": "Gaming Mouse",
+        "price": 59,
+        "rating": 4.7,
+        "category": "Mouse",
+        "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=700",
+        "description": "High precision gaming mouse with RGB lighting and programmable buttons."
+    },
+    {
+        "id": 4,
+        "name": "RTX Graphics Card",
+        "price": 899,
+        "rating": 4.9,
+        "category": "Graphics Card",
+        "image": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=700",
+        "description": "Latest RTX graphics card with ray tracing support and AI performance boost."
+    },
+    {
+        "id": 5,
+        "name": "27 Inch Gaming Monitor",
+        "price": 399,
+        "rating": 4.8,
+        "category": "Monitor",
+        "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=700",
+        "description": "27-inch QHD gaming monitor with 165Hz refresh rate and HDR support."
+    },
+    {
+        "id": 6,
+        "name": "Wireless Headphones",
+        "price": 149,
+        "rating": 4.8,
+        "category": "Headphones",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=700",
+        "description": "Noise cancelling wireless headphones with 40-hour battery life."
+    },
+    {
+        "id": 7,
+        "name": "Smart Watch",
+        "price": 199,
+        "rating": 4.6,
+        "category": "Watch",
+        "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=700",
+        "description": "Smartwatch with fitness tracking, heart rate monitoring and GPS."
+    },
+    {
+        "id": 8,
+        "name": "1TB SSD",
+        "price": 119,
+        "rating": 4.9,
+        "category": "Storage",
+        "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=700",
+        "description": "Ultra-fast NVMe SSD with read speeds up to 7000MB/s."
+    }
+]
